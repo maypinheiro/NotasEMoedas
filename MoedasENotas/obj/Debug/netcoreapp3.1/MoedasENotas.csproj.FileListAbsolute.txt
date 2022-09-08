@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.exe
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.deps.json
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.runtimeconfig.json
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.dll
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\bin\Debug\netcoreapp3.1\MoedasENotas.pdb
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.AssemblyInfo.cs
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.dll
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.pdb
+C:\Users\017586631\source\repos\NotasEMoedas\MoedasENotas\obj\Debug\netcoreapp3.1\MoedasENotas.genruntimeconfig.cache
